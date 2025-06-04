@@ -1,1 +1,0 @@
-# ga train pa sa model sirrr!!!!!
