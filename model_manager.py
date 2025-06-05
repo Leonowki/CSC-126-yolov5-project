@@ -1,7 +1,3 @@
-"""
-Model management for YOLOv5 detection models
-"""
-
 import os
 import torch
 from typing import Optional, List
